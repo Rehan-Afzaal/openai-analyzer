@@ -5,7 +5,7 @@ This Flask application is designed for analyzing documents and extracting specif
 ![WhatsApp Image 2024-02-06 at 03 16 57](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/8f71488d-e37c-4efa-a06e-a07b18028148)
 
 ## Main Features
-![WhatsApp Image 2024-02-06 at 03 16 57](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/b63f718d-b701-4df6-999f-6280c735fa82)
+![WhatsApp Image 2024-02-06 at 03 16 57 (1)](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/cb1a257c-a14e-4fa5-81df-8d0443eed073)
 
 
 
