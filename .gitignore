@@ -1,0 +1,10 @@
+.env
+/venv
+/ocr.py
+/test.py
+/__pycache__
+/test.ipynb
+/DS.Store
+/temp_upload
+/__pycache__
+test.ipynb/
