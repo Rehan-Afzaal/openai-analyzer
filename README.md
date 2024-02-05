@@ -3,6 +3,18 @@
 ## Overview
 This Flask application is designed for analyzing documents and extracting specific information based on various prompt types. It supports multiple functionalities including analyzing contracts, private placements, and money market documents.
 
+##Features
+![image](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/dc79da3c-f873-4665-b71f-08d1ff3d85e3)
+
+![image](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/26dfba7b-2127-4e0c-9206-d01bf8896bdd)
+
+![image](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/c0813a73-f06e-41d6-8e6a-25b1c7ac325e)
+
+![image](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/725e1056-777f-4f07-bdf2-0a75186eeff0)
+
+![image](https://github.com/Rehan-Afzaal/openai-analyzer/assets/42688016/f068aa5e-fe00-42a5-867e-778e4ed5002f)
+
+
 ## API Endpoints
 
 ### 1. Document Analyzer
